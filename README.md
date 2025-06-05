@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Ahmed, Backend Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Mansoura, Egypt</b>
+<p>Welcome to my page! </br> I'm Ahmed, Backend Engineer from <b>Mansoura, Egypt</b>
 
 **Learning programming and growing my skills step-by-step.**  
 Currently focused on:
@@ -33,10 +33,10 @@ September 2018 - June 2022**
 
 ### Connect with Me :
 
-<a href="www.linkedin.com/in/ahmed-ashraf-17a0b2204"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="ahmedashraf.ds12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/ahmed-ashraf-17a0b2204/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:ahmedashraf.ds12@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<a href="[https://drive.google.com/file/d/14P9Acme8rdJyhSnPaaUo8RDZA2bvFZa5/view?usp=sharing](https://drive.google.com/file/d/1MbzKzIxkJPy-Grqh-aw75gCAA1M1KiXz/view?usp=sharing)" target="_blank">
+<a href="https://drive.google.com/file/d/1MbzKzIxkJPy-Grqh-aw75gCAA1M1KiXz/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-yellow.svg?style=plastic&logo=google-drive&logoColor=white" alt="Resume"/>
 </a>
 
