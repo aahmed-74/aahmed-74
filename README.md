@@ -6,7 +6,7 @@
 **Learning programming and growing my skills step-by-step.**  
 Currently focused on:
 
-- 🌱 **- 🎨 Backend development ( PHP, Laravel, RESTful API, MVC ,MySQL, SQL, CCNA and more.)**
+- 🌱 **Backend development ( PHP, Laravel, RESTful API, MVC ,MySQL, SQL, CCNA and more.)**
   <br>
 - 👨‍💻 **Bachelor's Degree in Computer & Information Sciences
 Faculty of Computer Science, Mansoura University
